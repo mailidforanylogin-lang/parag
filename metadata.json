@@ -1,0 +1,6 @@
+{
+  "name": "Engagement Invitation",
+  "description": "A premium digital engagement invitation builder and live previewer with customizable gold-and-white themes, interactive countdown, music controller, and complete Flutter code exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
